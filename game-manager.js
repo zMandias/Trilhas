@@ -139,3 +139,5 @@ while (continuar === true) {
     }
     else{
           console.log("Opção inválida, digite outra opção...");
+    }
+}
